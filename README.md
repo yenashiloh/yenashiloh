@@ -1,4 +1,4 @@
-![Header](./github_readme_banner.svg)
+![Header](./github_readme_banner.svgs)
 
 ## 🚀 About Me
 
