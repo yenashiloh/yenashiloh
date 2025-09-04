@@ -9,6 +9,15 @@ I'm a versatile developer who bridges the gap between beautiful design and funct
 - 💡 Love turning creative ideas into reality through code
 - 🎯 Goal: Building impactful applications that solve real-world problems
 
+## 📫 Let's Connect!
+
+I'm always excited to collaborate on interesting projects or discuss new opportunities!
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yenashiloh.github.io/shiloh-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiloh-eugenio-9a7024256/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shiloheugenio21@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shiloheugenio21)  
+
 ## 💻 Tech Stack
 
 ### **Frontend Development**
@@ -47,9 +56,6 @@ I'm a versatile developer who bridges the gap between beautiful design and funct
 
 </div>
 
-### 📊 Contribution Graph
-[![Shiloh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yenashiloh&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -62,6 +68,9 @@ I'm a versatile developer who bridges the gap between beautiful design and funct
 
 </div>
 
+### 📊 Contribution Graph
+[![Shiloh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yenashiloh&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 🏆 What I Bring to the Table
 
 ```javascript
@@ -72,15 +81,6 @@ const skills = {
     workflow: ["Agile Development", "Version Control", "Project Management"]
 };
 ```
-
-## 📫 Let's Connect!
-
-I'm always excited to collaborate on interesting projects or discuss new opportunities!
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yenashiloh.github.io/shiloh-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiloh-eugenio-9a7024256/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shiloheugenio21@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shiloheugenio21)  
 
 ---
 
