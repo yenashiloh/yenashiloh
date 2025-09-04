@@ -4,10 +4,10 @@
 
 I'm a versatile developer who bridges the gap between beautiful design and functional code. With expertise spanning both frontend and backend technologies, I enjoy crafting complete web solutions from concept to deployment. When I'm not coding, you'll find me exploring the latest design trends or fine-tuning user experiences.
 
-- 🔭 Currently working on exciting web projects
-- 🌱 Always learning and staying updated with the latest tech trends
-- 💡 Love turning creative ideas into reality through code
-- 🎯 Goal: Building impactful applications that solve real-world problems
+- Currently working on exciting web projects
+- Always learning and staying updated with the latest tech trends
+- Love turning creative ideas into reality through code
+- Goal: Building impactful applications that solve real-world problems
 
 ## 📫 Let's Connect!
 
