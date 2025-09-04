@@ -1,0 +1,240 @@
+<svg width="1200" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Gradient -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f172a;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1e293b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#334155;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#22d3ee;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#a855f7;stop-opacity:1" />
+    </linearGradient>
+    
+    <!-- Purple accent gradient for corner -->
+    <radialGradient id="purpleAccent" cx="100%" cy="100%" r="50%">
+      <stop offset="0%" style="stop-color:#a855f7;stop-opacity:0.3" />
+      <stop offset="100%" style="stop-color:#a855f7;stop-opacity:0" />
+    </radialGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="400" fill="url(#bgGradient)"/>
+  
+  <!-- Purple accent corner -->
+  <ellipse cx="1200" cy="400" rx="300" ry="200" fill="url(#purpleAccent)"/>
+  
+  <!-- Floating Icons with Animations -->
+  
+  <!-- HTML5 Icon -->
+  <g opacity="0.4">
+    <animateTransform attributeName="transform" attributeType="XML" 
+                      type="translate" values="80,60; 90,50; 80,60" 
+                      dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4; 0.7; 0.4" dur="4s" repeatCount="indefinite"/>
+    <path d="M10 0L8 36h24l-2-36H10zm4 8h16l-1 16H15l-1-16z" fill="#22d3ee" stroke="#22d3ee" stroke-width="1"/>
+    <rect x="14" y="12" width="12" height="2" fill="#22d3ee"/>
+    <rect x="14" y="16" width="8" height="2" fill="#22d3ee"/>
+  </g>
+  
+  <!-- CSS3 Icon -->
+  <g opacity="0.3">
+    <animateTransform attributeName="transform" attributeType="XML" 
+                      type="translate" values="180,120; 170,110; 180,120" 
+                      dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3; 0.6; 0.3" dur="5s" repeatCount="indefinite"/>
+    <circle cx="15" cy="15" r="12" fill="none" stroke="#a855f7" stroke-width="2"/>
+    <path d="M10 10h10v10h-10z" fill="#a855f7"/>
+  </g>
+  
+  <!-- JavaScript Icon -->
+  <g opacity="0.5">
+    <animateTransform attributeName="transform" attributeType="XML" 
+                      type="translate" values="320,40; 330,30; 320,40" 
+                      dur="3.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5; 0.8; 0.5" dur="3.5s" repeatCount="indefinite"/>
+    <rect x="5" y="5" width="20" height="20" rx="3" fill="#f59e0b"/>
+    <text x="15" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#0f172a">JS</text>
+  </g>
+  
+  <!-- React Icon -->
+  <g opacity="0.4">
+    <animateTransform attributeName="transform" attributeType="XML" 
+                      type="translate" values="480,100; 470,90; 480,100" 
+                      dur="6s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" attributeType="XML" 
+                      type="rotate" values="0 15 15; 360 15 15" 
+                      dur="8s" repeatCount="indefinite" additive="sum"/>
+    <animate attributeName="opacity" values="0.4; 0.7; 0.4" dur="6s" repeatCount="indefinite"/>
+    <circle cx="15" cy="15" r="3" fill="#22d3ee"/>
+    <ellipse cx="15" cy="15" rx="12" ry="5" fill="none" stroke="#22d3ee" stroke-width="2"/>
+    <ellipse cx="15" cy="15" rx="12" ry="5" fill="none" stroke="#22d3ee" stroke-width="2" transform="rotate(60 15 15)"/>
+    <ellipse cx="15" cy="15" rx="12" ry="5" fill="none" stroke="#22d3ee" stroke-width="2" transform="rotate(120 15 15)"/>
+  </g>
+  
+  <!-- Database Icon -->
+  <g opacity="0.3">
+    <animateTransform attributeName="transform" attributeType="XML" 
+                      type="translate" values="650,70; 660,80; 650,70" 
+                      dur="4.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3; 0.6; 0.3" dur="4.5s" repeatCount="indefinite"/>
+    <ellipse cx="15" cy="8" rx="12" ry="4" fill="#10b981"/>
+    <rect x="3" y="8" width="24" height="12" fill="#10b981"/>
+    <ellipse cx="15" cy="20" rx="12" ry="4" fill="#10b981"/>
+  </g>
+  
+  <!-- Design/Figma Icon -->
+  <g opacity="0.4">
+    <animateTransform attributeName="transform" attributeType="XML" 
+                      type="translate" values="800,130; 790,140; 800,130" 
+                      dur="5.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4; 0.7; 0.4" dur="5.5s" repeatCount="indefinite"/>
+    <rect x="8" y="5" width="8" height="12" rx="4" fill="#a855f7"/>
+    <rect x="16" y="5" width="8" height="8" rx="4" fill="#ef4444"/>
+    <circle cx="12" cy="21" r="4" fill="#22d3ee"/>
+  </g>
+  
+  <!-- Git Branch Icon -->
+  <g opacity="0.3">
+    <animateTransform attributeName="transform" attributeType="XML" 
+                      type="translate" values="950,50; 940,60; 950,50" 
+                      dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3; 0.6; 0.3" dur="3s" repeatCount="indefinite"/>
+    <circle cx="5" cy="5" r="3" fill="#22d3ee"/>
+    <circle cx="25" cy="25" r="3" fill="#22d3ee"/>
+    <path d="M5 8 Q15 15 25 22" fill="none" stroke="#22d3ee" stroke-width="2"/>
+  </g>
+  
+  <!-- Code Brackets -->
+  <g opacity="0.4">
+    <animateTransform attributeName="transform" attributeType="XML" 
+                      type="translate" values="1050,90; 1060,100; 1050,90" 
+                      dur="4.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4; 0.8; 0.4" dur="4.2s" repeatCount="indefinite"/>
+    <path d="M5 10L0 15L5 20M15 10L20 15L15 20" fill="none" stroke="#10b981" stroke-width="2"/>
+  </g>
+  
+  <!-- Responsive Design Icon -->
+  <g opacity="0.3">
+    <animateTransform attributeName="transform" attributeType="XML" 
+                      type="translate" values="120,280; 110,290; 120,280" 
+                      dur="6.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3; 0.6; 0.3" dur="6.5s" repeatCount="indefinite"/>
+    <rect x="2" y="5" width="16" height="10" rx="1" fill="none" stroke="#a855f7" stroke-width="1.5"/>
+    <rect x="20" y="8" width="8" height="6" rx="1" fill="none" stroke="#a855f7" stroke-width="1.5"/>
+    <rect x="30" y="10" width="4" height="4" rx="0.5" fill="none" stroke="#a855f7" stroke-width="1"/>
+  </g>
+  
+  <!-- API/Server Icon -->
+  <g opacity="0.4">
+    <animateTransform attributeName="transform" attributeType="XML" 
+                      type="translate" values="280,320; 290,310; 280,320" 
+                      dur="3.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4; 0.7; 0.4" dur="3.8s" repeatCount="indefinite"/>
+    <rect x="5" y="5" width="20" height="4" rx="2" fill="#22d3ee"/>
+    <rect x="5" y="11" width="20" height="4" rx="2" fill="#22d3ee"/>
+    <rect x="5" y="17" width="20" height="4" rx="2" fill="#22d3ee"/>
+  </g>
+  
+  <!-- UI/UX Wireframe Icon -->
+  <g opacity="0.3">
+    <animateTransform attributeName="transform" attributeType="XML" 
+                      type="translate" values="450,300; 460,290; 450,300" 
+                      dur="5.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3; 0.6; 0.3" dur="5.2s" repeatCount="indefinite"/>
+    <rect x="2" y="2" width="26" height="20" rx="2" fill="none" stroke="#10b981" stroke-width="1.5"/>
+    <rect x="5" y="5" width="8" height="3" fill="#10b981"/>
+    <rect x="5" y="10" width="20" height="2" fill="#10b981"/>
+    <rect x="5" y="14" width="15" height="2" fill="#10b981"/>
+    <rect x="5" y="18" width="12" height="2" fill="#10b981"/>
+  </g>
+  
+  <!-- Color Palette Icon -->
+  <g opacity="0.4">
+    <animateTransform attributeName="transform" attributeType="XML" 
+                      type="translate" values="620,320; 610,330; 620,320" 
+                      dur="4.7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4; 0.8; 0.4" dur="4.7s" repeatCount="indefinite"/>
+    <circle cx="8" cy="8" r="6" fill="#ef4444"/>
+    <circle cx="16" cy="8" r="6" fill="#f59e0b"/>
+    <circle cx="24" cy="8" r="6" fill="#10b981"/>
+    <circle cx="12" cy="16" r="6" fill="#22d3ee"/>
+    <circle cx="20" cy="16" r="6" fill="#a855f7"/>
+  </g>
+  
+  <!-- Settings/Cog Icon -->
+  <g opacity="0.3">
+    <animateTransform attributeName="transform" attributeType="XML" 
+                      type="translate" values="780,280; 790,270; 780,280" 
+                      dur="6.8s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" attributeType="XML" 
+                      type="rotate" values="0 15 15; 360 15 15" 
+                      dur="10s" repeatCount="indefinite" additive="sum"/>
+    <animate attributeName="opacity" values="0.3; 0.7; 0.3" dur="6.8s" repeatCount="indefinite"/>
+    <circle cx="15" cy="15" r="6" fill="none" stroke="#f59e0b" stroke-width="2"/>
+    <circle cx="15" cy="15" r="3" fill="#f59e0b"/>
+    <rect x="13" y="2" width="4" height="6" fill="#f59e0b"/>
+    <rect x="13" y="22" width="4" height="6" fill="#f59e0b"/>
+    <rect x="2" y="13" width="6" height="4" fill="#f59e0b"/>
+    <rect x="22" y="13" width="6" height="4" fill="#f59e0b"/>
+  </g>
+  
+  <!-- Component/Module Icon -->
+  <g opacity="0.4">
+    <animateTransform attributeName="transform" attributeType="XML" 
+                      type="translate" values="920,300; 930,310; 920,300" 
+                      dur="4.3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4; 0.7; 0.4" dur="4.3s" repeatCount="indefinite"/>
+    <rect x="2" y="2" width="12" height="12" rx="2" fill="none" stroke="#22d3ee" stroke-width="1.5"/>
+    <rect x="16" y="2" width="12" height="12" rx="2" fill="none" stroke="#22d3ee" stroke-width="1.5"/>
+    <rect x="2" y="16" width="12" height="12" rx="2" fill="none" stroke="#22d3ee" stroke-width="1.5"/>
+    <rect x="16" y="16" width="12" height="12" rx="2" fill="none" stroke="#22d3ee" stroke-width="1.5"/>
+  </g>
+  
+  <!-- Puzzle Piece Icon -->
+  <g opacity="0.3">
+    <animateTransform attributeName="transform" attributeType="XML" 
+                      type="translate" values="1080,280; 1070,290; 1080,280" 
+                      dur="5.7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3; 0.6; 0.3" dur="5.7s" repeatCount="indefinite"/>
+    <path d="M5 5h8v3c0 2 3 2 3 0v-3h8v8h-3c-2 0-2 3 0 3h3v8h-8v-3c0-2-3-2-3 0v3H5V13h3c2 0 2-3 0-3H5V5z" fill="#a855f7"/>
+  </g>
+  
+  <!-- Additional Floating Elements -->
+  
+  <!-- Floating Dots -->
+  <circle cx="150" cy="150" r="3" fill="#22d3ee" opacity="0.2">
+    <animateTransform attributeName="transform" attributeType="XML" 
+                      type="translate" values="0,0; 20,-10; 0,0" 
+                      dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.2; 0.5; 0.2" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="550" cy="80" r="2" fill="#a855f7" opacity="0.3">
+    <animateTransform attributeName="transform" attributeType="XML" 
+                      type="translate" values="0,0; -15,15; 0,0" 
+                      dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3; 0.6; 0.3" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="900" cy="200" r="2.5" fill="#10b981" opacity="0.25">
+    <animateTransform attributeName="transform" attributeType="XML" 
+                      type="translate" values="0,0; 10,-20; 0,0" 
+                      dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.25; 0.5; 0.25" dur="9s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Main Text Content -->
+  <g transform="translate(600, 180)">
+    <text x="0" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="url(#textGradient)">
+      I'M SHILOH EUGENIO
+    </text>
+    <text x="0" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="url(#textGradient)">
+      FREELANCE WEB DEVELOPER &amp; UI/UX DESIGNER
+    </text>
+    <text x="0" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#94a3b8" font-weight="300">
+      TURNING IDEAS INTO INTERACTIVE EXPERIENCES
+    </text>
+  </g>
+</svg>
