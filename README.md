@@ -47,6 +47,10 @@ I'm a versatile developer who bridges the gap between beautiful design and funct
 
 </div>
 
+### ⚡ GitHub Activity Overview
+
+![Profile views](https://komarev.com/ghpvc/?username=yenashiloh&label=Profile%20views&color=0e75b6&style=flat)
+
 ## 📊 GitHub Stats
 
 <div align="center">
