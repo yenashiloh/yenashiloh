@@ -1,9 +1,5 @@
 ![Header](./github_readme_banner.svg)
 
-# Hi there! 👋 I'm Shiloh Eugenio
-
-> **Full-Stack Web Developer & UI/UX Designer** passionate about creating digital experiences that matter.
-
 ## 🚀 About Me
 
 I'm a versatile developer who bridges the gap between beautiful design and functional code. With expertise spanning both frontend and backend technologies, I enjoy crafting complete web solutions from concept to deployment. When I'm not coding, you'll find me exploring the latest design trends or fine-tuning user experiences.
