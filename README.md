@@ -70,7 +70,7 @@ const skills = {
 I'm always excited to collaborate on interesting projects or discuss new opportunities!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yenashiloh.github.io/shiloh-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/shiloh-eugenio](https://www.linkedin.com/in/shiloh-eugenio-9a7024256/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiloh-eugenio-9a7024256/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shiloheugenio21@gmail.com)
 
 ---
