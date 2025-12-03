@@ -200,6 +200,31 @@
     <animate attributeName="opacity" values="0.3; 0.6; 0.3" dur="5.7s" repeatCount="indefinite"/>
     <path d="M5 5h8v3c0 2 3 2 3 0v-3h8v8h-3c-2 0-2 3 0 3h3v8h-8v-3c0-2-3-2-3 0v3H5V13h3c2 0 2-3 0-3H5V5z" fill="#a855f7"/>
   </g>
+
+    <!-- WordPress Icon -->
+  <g opacity="0.4">
+    <animateTransform attributeName="transform" attributeType="XML" 
+                      type="translate" values="240,200; 230,190; 240,200" 
+                      dur="4.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4; 0.7; 0.4" dur="4.8s" repeatCount="indefinite"/>
+    <circle cx="15" cy="15" r="13" fill="none" stroke="#21759b" stroke-width="2"/>
+    <circle cx="15" cy="15" r="3" fill="#21759b"/>
+    <ellipse cx="15" cy="15" rx="10" ry="3.5" fill="none" stroke="#21759b" stroke-width="1.5" transform="rotate(45 15 15)"/>
+    <ellipse cx="15" cy="15" rx="10" ry="3.5" fill="none" stroke="#21759b" stroke-width="1.5" transform="rotate(-45 15 15)"/>
+    <path d="M15 2v6M15 22v6M2 15h6M22 15h6" stroke="#21759b" stroke-width="1.5"/>
+  </g>
+  
+  <!-- Elementor Icon -->
+  <g opacity="0.35">
+    <animateTransform attributeName="transform" attributeType="XML" 
+                      type="translate" values="1100,150; 1110,160; 1100,150" 
+                      dur="5.3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.35; 0.65; 0.35" dur="5.3s" repeatCount="indefinite"/>
+    <rect x="3" y="3" width="24" height="24" rx="2" fill="#92003b"/>
+    <rect x="8" y="8" width="14" height="2" fill="#ffffff"/>
+    <rect x="8" y="13" width="10" height="2" fill="#ffffff"/>
+    <rect x="8" y="18" width="12" height="2" fill="#ffffff"/>
+  </g>
   
   <!-- Additional Floating Elements -->
   
