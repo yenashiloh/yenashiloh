@@ -63,18 +63,6 @@ I'm always excited to collaborate on interesting projects or discuss new opportu
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yenashiloh&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yenashiloh&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yenashiloh&theme=radical&hide_border=true)
-
-</div>
-
 ### 📊 Contribution Graph
 [![Shiloh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yenashiloh&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
