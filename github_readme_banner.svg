@@ -225,9 +225,7 @@
     <rect x="8" y="13" width="10" height="2" fill="#ffffff"/>
     <rect x="8" y="18" width="12" height="2" fill="#ffffff"/>
   </g>
-  
-  <!-- Additional Floating Elements -->
-  
+
   <!-- Floating Dots -->
   <circle cx="150" cy="150" r="3" fill="#22d3ee" opacity="0.2">
     <animateTransform attributeName="transform" attributeType="XML" 
@@ -256,10 +254,10 @@
       I'M SHILOH EUGENIO
     </text>
     <text x="0" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="url(#textGradient)">
-      FREELANCE WEB DEVELOPER &amp; UI/UX DESIGNER
+    WEB DEVELOPER
     </text>
     <text x="0" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#94a3b8" font-weight="300">
-      TURNING IDEAS INTO INTERACTIVE EXPERIENCES
+       BUILDING RESPONSIVE AND USER-FOCUSED WEB EXPERIENCES
     </text>
   </g>
 </svg>
