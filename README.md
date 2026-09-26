@@ -91,7 +91,7 @@ I'm always excited to collaborate on interesting projects or discuss new opportu
 ## GitHub Trophies
 <div align="center">
 
-[![trophy](https://trophygh.kolioaris.xyz/?username=yenashiloh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.devomb.com/?username=yenashiloh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
