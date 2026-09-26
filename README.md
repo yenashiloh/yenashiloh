@@ -90,8 +90,8 @@ I'm always excited to collaborate on interesting projects or discuss new opportu
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/api?username=yenashiloh&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yenashiloh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
