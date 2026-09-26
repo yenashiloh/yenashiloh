@@ -4,10 +4,10 @@
 
 I'm a versatile developer who bridges the gap between beautiful design and functional code. With experience spanning frontend development, UI/UX design, backend technologies, WordPress, and web hosting, I enjoy crafting complete web solutions from concept to deployment. When I'm not coding, you'll find me exploring the latest design trends or fine-tuning user experiences.
 
-- Currently working on exciting web projects
-- Always learning and staying updated with the latest tech trends
-- Love turning creative ideas into reality through code
-- Goal: Building impactful applications that solve real-world problems
+* Building responsive and user-focused web experiences
+* Continuously learning and exploring modern web technologies
+* Combining UI/UX design with frontend development to bring ideas to life
+* Passionate about creating practical and engaging digital experiences
 
 ## Let's Connect!
 
@@ -37,6 +37,7 @@ I'm always excited to collaborate on interesting projects or discuss new opportu
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-4285F4?style=for-the-badge)
 
@@ -82,11 +83,7 @@ I'm always excited to collaborate on interesting projects or discuss new opportu
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge)
 ![Stitch AI](https://img.shields.io/badge/Stitch_AI-4285F4?style=for-the-badge)
-![Antigravity](https://img.shields.io/badge/Antigravity-333333?style=for-the-badge)
 
 ### **Creative Tools**
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
