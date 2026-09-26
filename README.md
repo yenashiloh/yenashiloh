@@ -18,7 +18,7 @@ I'm always excited to collaborate on interesting projects or discuss new opportu
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shiloheugenio21@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shiloheugenio21)
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### **Frontend Development**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -88,10 +88,10 @@ I'm always excited to collaborate on interesting projects or discuss new opportu
 ### **Creative Tools**
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yenashiloh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophygh.kolioaris.xyz/?username=yenashiloh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
