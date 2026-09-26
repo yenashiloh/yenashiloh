@@ -95,8 +95,8 @@ I'm always excited to collaborate on interesting projects or discuss new opportu
 
 </div>
 
-### 📊 Contribution Graph
-[![Shiloh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yenashiloh&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### Contribution Graph
+[![Shiloh's github activity graph](https://fabianocouto-activity-graph.vercel.app/graph?username=yenashiloh&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## What I Bring to the Table
 
